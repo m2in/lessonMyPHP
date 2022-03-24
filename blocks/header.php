@@ -1,7 +1,7 @@
 <header>
 	<nav class="navbar navbar-expand-md navbar-dark fixed-top bg-dark">
 		<div class="container-fluid">
-			<a class="navbar-brand" href="#">MySitePHP</a>
+			<a class="navbar-brand" href="/">MySitePHP</a>
 			<button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
 				<span class="navbar-toggler-icon"></span>
 			</button>
@@ -18,7 +18,7 @@
 					</li>
 				</ul>
 				<a class="btn btn-outline-primary me-3" href="#">Войти</a>
-				<a class="btn btn-outline-primary" href="#">Регистрация</a>
+				<a class="btn btn-outline-primary" href="/reg.php">Регистрация</a>
 				
 			</div>
 		</div>
