@@ -1,6 +1,9 @@
 <!DOCTYPE html>
 <html lang="ru">
-	<?php require 'blocks/headInst.php'; ?>
+	<?php 
+		$webSiteTitle = 'Lesson PHP | Error 404 site';
+		require 'blocks/headInst.php'; 
+	?>
 	<body>
 		<?php require 'blocks/header.php'; ?>
 		<main class="container mt-5">

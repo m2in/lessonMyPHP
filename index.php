@@ -1,6 +1,9 @@
 <!DOCTYPE html>
 <html lang="ru">
-	<?php require 'blocks/headInst.php'; ?>
+	<?php 
+		$webSiteTitle = 'Lesson PHP | My Test site';
+		require 'blocks/headInst.php'; 
+	?>
 	<body>
 		<?php require 'blocks/header.php'; ?>
 
