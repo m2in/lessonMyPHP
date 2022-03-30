@@ -5,6 +5,7 @@
 		require 'blocks/headInst.php'; 
 	?>
 	<body>
+		<?php require 'blocks/bd.php'; ?>
 		<?php require 'blocks/header.php'; ?>
 
 		<main class="container mt-5">
